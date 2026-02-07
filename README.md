@@ -1,2 +1,2 @@
 # Refastor
-VSCode plugin for a easy refactor ok projects
+VSCode plugin for a easy refactor on projects
